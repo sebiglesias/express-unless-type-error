@@ -1,0 +1,27 @@
+{
+  "name": "express-unless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebiglesias/express-unless-type-error.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebiglesias/express-unless-type-error/issues"
+  },
+  "homepage": "https://github.com/sebiglesias/express-unless-type-error#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.4",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "jwks-rsa": "1.12.3"
+  }
+}
